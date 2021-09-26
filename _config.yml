@@ -103,13 +103,13 @@ analytics:
 author:
   name             : "Minkyong Stella"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "좀 더 재밌게, 신나게, 활기있게"
+  bio              : "붉은색, 푸른색, 그 사이 3초 그 짧은시간"
   location         : "Korea, Republic of"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto.shumfael@naver.com"
+      url: "shumfael@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
