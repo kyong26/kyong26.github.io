@@ -105,7 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "붉은색, 푸른색, 그 사이 3초 그 짧은시간"
   location         : "Korea, Republic of"
-  email            : "shumfael@naver.com"
+  #email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
